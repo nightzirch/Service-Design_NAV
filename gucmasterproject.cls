@@ -375,11 +375,11 @@ Use $\backslash$useyear\{<year>\} to set year.
 
 \DeclareOption{informationsecurity}{%
   \renewcommand\gmt@firstpagetext{%
-    Master's Thesis Project Description\\
-    Master of Science in Interaction Design\\
-    5 ECTS\\
-    Department of Computer Science and Media Technology\\
-    Gj\o{}vik University College, \gmt@frontpagesyear
+    Service Design\\
+    Master i Interaksjonsdesign\\
+    5 studiepoeng\\
+    Avdeling for Informatikk og Medieteknikk\\
+    H\o{}gskolen i Gj\o{}vik, \gmt@frontpagesyear
   }
   \renewcommand\gmt@secondpagetext{\gmt@imttext}
 }
