@@ -1,44 +1,26 @@
 \select@language {norsk}
-\contentsline {chapter}{Revisjoner}{iii}{section*.2}
-\contentsline {paragraph}{Control questions}{i}{section*.3}
-\contentsline {chapter}{Innhold}{iii}{section*.5}
-\contentsline {chapter}{\numberline {1}LOLOLL}{1}{section*.6}
-\contentsline {section}{\numberline {1.1}Dette er en subtittel}{1}{section.1.1}
-\contentsline {chapter}{\numberline {2}Contents of the project description}{3}{section*.7}
-\contentsline {chapter}{\numberline {3}Introduction (1-2 pages)}{5}{section*.8}
-\contentsline {section}{\numberline {3.1}Topic covered by the project}{5}{section.3.1}
-\contentsline {paragraph}{Control questions:}{5}{section*.9}
-\contentsline {section}{\numberline {3.2}Keywords}{5}{section.3.2}
-\contentsline {paragraph}{Control questions:}{5}{section*.10}
-\contentsline {section}{\numberline {3.3}Problem description}{6}{section.3.3}
-\contentsline {paragraph}{Control questions:}{6}{section*.11}
-\contentsline {section}{\numberline {3.4}Justification, motivation and benefits}{6}{section.3.4}
-\contentsline {paragraph}{Control questions}{6}{section*.12}
-\contentsline {section}{\numberline {3.5}Research questions}{6}{section.3.5}
-\contentsline {paragraph}{Control questions:}{7}{section*.13}
-\contentsline {section}{\numberline {3.6}Planned contributions}{7}{section.3.6}
-\contentsline {paragraph}{Control questions}{7}{section*.14}
-\contentsline {chapter}{\numberline {4}Related work (3-10 pages)}{9}{section*.15}
-\contentsline {section}{\numberline {4.1}Handling Potential problems}{9}{section.4.1}
-\contentsline {paragraph}{Question 1}{9}{section*.16}
-\contentsline {paragraph}{Answer 1.A}{9}{section*.17}
-\contentsline {paragraph}{Answer 1.B}{9}{section*.18}
-\contentsline {paragraph}{Question 2}{9}{section*.19}
-\contentsline {paragraph}{Answer 2.A}{10}{section*.20}
-\contentsline {paragraph}{Answer 2B}{10}{section*.21}
-\contentsline {paragraph}{Control questions:}{10}{section*.22}
-\contentsline {chapter}{\numberline {5}Choice of methods (2-5 pages)}{11}{section*.23}
-\contentsline {chapter}{\numberline {6}Milestones, deliverables and resources (2-5 pages)}{13}{section*.24}
-\contentsline {chapter}{\numberline {7}Feasibility study (1/2-3 pages)}{15}{section*.25}
-\contentsline {chapter}{\numberline {8}Risk analysis (1/2-2 pages)}{17}{section*.26}
-\contentsline {chapter}{\numberline {9}Ethical and legal considerations (1/4-1 page)}{19}{section*.27}
-\contentsline {chapter}{\numberline {10}The bibliography}{21}{section*.28}
-\contentsline {chapter}{\numberline {A}Known problems with MikTeX and TeXnicCenter}{23}{section*.29}
-\contentsline {section}{\numberline {A.1}Hig logo xor url's}{23}{section.A.1}
-\contentsline {paragraph}{Problem}{23}{section*.30}
-\contentsline {paragraph}{Possible solution 1}{23}{section*.31}
-\contentsline {paragraph}{Possible solution 2}{23}{section*.32}
-\contentsline {section}{\numberline {A.2}\textlatin {\LaTeX }/AFPL Ghostscript crashes}{23}{section.A.2}
-\contentsline {paragraph}{Problem}{23}{section*.33}
-\contentsline {paragraph}{Possible solution}{23}{section*.34}
-\contentsline {chapter}{Bibliografi}{25}{section*.36}
+\contentsline {chapter}{Forord}{iii}{section*.2}
+\contentsline {chapter}{Innhold}{iii}{section*.4}
+\contentsline {chapter}{\numberline {1}Dagens l\IeC {\o }sning hos NAV}{1}{section*.5}
+\contentsline {section}{\numberline {1.1}Refleksjon rundt NAV}{1}{section.1.1}
+\contentsline {subsubsection}{Hvor ligger problemet vedr\IeC {\o }rende alderspensjon?}{1}{section*.6}
+\contentsline {subsubsection}{Forslag til forbedringer}{1}{section*.7}
+\contentsline {section}{\numberline {1.2}Analyse av stakeholders}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Personas}{1}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Thomas Larsen}{1}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Gudrun Bekkehavn}{2}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}P\IeC {\r a}l Wolfgang}{2}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}Kundereise}{3}{section.1.4}
+\contentsline {subsubsection}{F\IeC {\o }r kontakt}{4}{section*.8}
+\contentsline {subsubsection}{F\IeC {\o }rste kontakt}{4}{section*.9}
+\contentsline {subsubsection}{Hjelp}{4}{section*.10}
+\contentsline {subsubsection}{S\IeC {\o }k om alderspensjon}{4}{section*.11}
+\contentsline {subsubsection}{F\IeC {\r a}r utbetalt alderspensjon}{4}{section*.12}
+\contentsline {chapter}{\numberline {2}Refleksjon}{7}{section*.13}
+\contentsline {chapter}{\numberline {3}Analyse av IT-systemer}{9}{section*.14}
+\contentsline {section}{\numberline {3.1}Grunnleggende analyse}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}CSCW-matrise}{9}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Samme sted, samme tid}{9}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Samme tid, forskjellig sted}{9}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Forskjellig tid, samme sted}{10}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Forskjellig tid, forskjellig sted}{10}{subsection.3.2.4}
