@@ -9,26 +9,25 @@
 \documentclass[informationsecurity]{gucmasterproject}
 
 %\usepackage{pslatex} %% Doesn't seem to work - i.e. convert .eps to .pdf
- 
-\usepackage[utf8]{inputenc}     % For utf8 encoded .tex files
+\usepackage[utf8]{inputenc} % For utf8 encoded .tex files
 %\usepackage[latin1]{inputenc}
-\usepackage[norsk]{babel}     % For chapter headings etc.
-%\usepackage[pdftex]{graphicx}           % For inclusion of graphics
+\usepackage[norsk]{babel} % For chapter headings etc.
+%\usepackage[pdftex]{graphicx} % For inclusion of graphics
 
 %From http://math.uib.no/it/tips/
-   %% For grafikk
-    \usepackage{ifpdf}
-    \ifpdf
-      \usepackage[pdftex]{graphicx}
-      \usepackage{epstopdf}
-    \else
-      \usepackage[dvips]{graphicx}
-    \fi
-    %% Her kan du putte dine vanlige pakker og definisjoner
+%% For grafikk
+\usepackage{ifpdf}
+\ifpdf
+\usepackage[pdftex]{graphicx}
+\usepackage{epstopdf}
+\else
+\usepackage[dvips]{graphicx}
+\fi
+%% Her kan du putte dine vanlige pakker og definisjoner
 
 
 
-%\usepackage[dvips]{hyperref}    % For cross references in pdf
+%\usepackage[dvips]{hyperref} % For cross references in pdf
 \usepackage{hyperref}
 \usepackage{mdwlist}
 \usepackage{url}
@@ -48,15 +47,15 @@
 
 \comment{
 Front page - including
-"   HIG technical report front page including logos etc.
-"   The text: "MSc project plan"
-"   Title of project
-"   Name of author and contact details
-"   Date
-"   Version
+" HIG technical report front page including logos etc.
+" The text: "MSc project plan"
+" Title of project
+" Name of author and contact details
+" Date
+" Version
 
 email address
-"   MAIS students must include "NISlab" as their affiliation.
+" MAIS students must include "NISlab" as their affiliation.
 Date:22.10.2003
 
 Structure of MSc thesis project plan
@@ -77,12 +76,7 @@ For å evaluere NAV sin alderspensjonstjeneste har vi brukt metoder som stakehol
 \tableofcontents
 
 
- \chapter{Introduksjon}
-I denne oppgaven har vi valgt å se nærmere på emnet pensjon og da mer spesifikt på hvordan informasjonen til tjenestene rundt alderspensjon fungerer. Disse tjenestene er alle tilgjengelige via nettsidene til NAV. Vi har valgt å fokusere på brukeropplevelser knyttet til nettstedet til NAV og utbetaling av pensjon gjennom bruk av fiktive brukere og intervjuer med ekte brukere. 
-
-
-\chapter{Dagens løsning hos NAV}
-\section{Refleksjon rundt NAV}
+\chapter{Introduksjon}
 Vi ønsker å ta for oss hvordan informasjon om alderspensjon blir presentert på NAV sine nettsider. Vår analyse vil ha hovedfokus på nettsiden til NAV og ta for seg hvordan informasjonen blir presentert. Analysen vår baserer seg på metodene presentert nedenfor og spørsmål rundt hvordan man opptjener alderspensjon, hvordan man får pengene utbetalt og generell presentasjon av innhold.
 
 NAV sine nettsider består hovedsaklig av informasjon og tjenester knyttet til de fire hovedemnene arbeid, familie, pensjon og helse. Vi har valgt å ta for oss pensjon, og da spesifikt alderspensjon. I denne rapporten vil vi se på allerede eksisterende service design ved å gjennomføre analyser og vurdere potensielle tiltak som vil forbedre dagens løsninger. NAV.no tilbyr i dag muligheter via sin løsning “Din pensjon” for å beregne pensjon, se pensjonsopptjening, bruke pensjonskalkulator og søke om alderspensjon.
@@ -92,7 +86,7 @@ I 2013 ble det registrert 1,8 millioner besøk hver måned på internett, 8,2 mi
 Pensjon som emne er veldig bredt da det finnes flere typer pensjon avhengig av hvilken situasjon man er i. Det finnes uførepensjon, krigspensjon, ytelser ved dødsfall, tjenestepensjon og omsorgsopptjening. Vi har valgt å se nærmere på alderspensjon fordi dette er en ordning alle må innom i løpet av livet sitt. Det er den eldre brukergruppen som mottar alderspensjon og denne brukergruppen har ofte vanskeligheter med syn og motorikk. Eldre er med andre ord en interessant og noe krevende brukergruppe å ha med og gjøre på grunn av de mange kravene som de har. Vi kan nesten anse denne brukergruppen for det som kalles “edge-case”. Det betyr at hvis den eldre brukergruppen klarer å bruke tjenesten tilnærmet optimalt, vil andre og mindre krevende brukergrupper heller ikke ha problemer med tjenesten. Samtidig er pensjonssidene på NAV.no ikke bare beregnet for eldre, men alle aldersgrupper. Fordi reglene rundt pensjon er så mange og kompliserte, er ikke unge nødvendigvis så interessert i å lese om pensjon. Ved å se på alderspensjon vil vi kunne se om behovet for den eldre brukergruppen tilfredsstiller, og om den yngre brukergruppen får informasjon slik de ønsker.
 
 
-
+\chapter{Analyse av eksisterende service design}
 \section{Analyse av stakeholders}
 Stakeholdere er de som blir direkte eller indirekte påvirket av organisasjonens handlinger, mål og politikk \cite{stakeholder}.
 \begin{itemize}
@@ -168,8 +162,6 @@ Vi har tatt kontakt med pensjonister og foretatt korte og ustrukturerte intervju
 
 I tillegg har vi intervjuet representanter fra den yngre brukergruppen. Disse intervjuene viste at svært få visste hva alderspensjon var og hvordan man opptjente det. De som ble intervjuet informerte om at dette var noe arbeidsgiver tok seg av, noe avtalefestet pensjon (AFP) gjør. Ingen av de spurte visste at det var NAV som faktisk betalte ut pensjon når man er ferdig i arbeidslivet og skal pensjonere seg. Vi informerte om at NAV på sin nettside informerer om alderspensjon og gav dem en oppgave som gikk ut på å finne ut mer om hva pensjon er. Formålet med oppgaven var å finne ut hvordan disse brukerne ville gå frem for å skaffe seg nok informasjon til å føle seg trygge på hva pensjon er.
 Alle brukerne navigerte seg frem til hovedsiden til pensjon uten problemer. Hovedsiden bød derimot på enkelte problemer for noen av brukerne. De forstod ikke hvilken informasjon som var viktig i forhold til definisjon av hva alderspensjon er. De oppfattet informasjonen som ble presentert som uryddig og ustrukturert. De mer nettvante brukerne oppdaget at lokalmenyen til venstre hadde en undermeny der det stod nettopp alderspensjon. Ved å trykke på lenken, ble brukerne ledet til en informasjonside som forklarte om alderspensjon.
-
-De fleste middelaldrende har fått informasjon om pensjon gjennom arbeidsgiver, og er i god rute med å spare opp pensjon. Disse ønsker å følge opp sin spareplan og følge med på sin fremtidige utbetalingsplan. De eldste, som er i overgangen mellom jobb og pensjonisttilværelse \textbf{[ }.
 
 \subsubsection{Beskrivelse av innhold - Forside pensjon}
 Headeren inneholder en link til en animasjonsfilm som prøver å forklare hvordan man tjener opp pensjon. Global meny og andre verktøy som snarveier og søkefelt er plassert øverst på siden. Selve innholdet som gjelder pensjon er presentert ved en lokal meny til venstre, 3 forskjellige linker til tjenester her representert ved en kombinasjon av bilder og tekst, en tabell om aktuelle tema, en tabell om ting som er nyttige å vite, enda en tabell som viser til forskjellige tjenester til høyre, og aktuelle nyheter på bunnen.
@@ -374,9 +366,9 @@ For å oppsummere analysen i del èn, avdekket vi at NAV sine nettsider er gener
 
 
 Bakgrunn for figur \ref{fig:skisse1}:
-Vi mener at NAV sine nettsider trenger en redesign, da den nåværende nettsiden blir oppfattet som utdatert og uryddig. Hyperlenker dominerer og det er vanskelig å navigere seg til riktig side med relevant informasjon.  Vi foreslår å bruke flere visuelle virkemidler for å hjelpe brukerne, og da spesielt eldre, i og navigere seg frem til riktig side med relevant innhold. Informasjonen som presenteres bør således også restruktureres.
+Vi mener at NAV sine nettsider trenger en redesign, da den nåværende nettsiden blir oppfattet som utdatert og uryddig. Hyperlenker dominerer og det er vanskelig å navigere seg til riktig side med relevant informasjon. Vi foreslår å bruke flere visuelle virkemidler for å hjelpe brukerne, og da spesielt eldre, i og navigere seg frem til riktig side med relevant innhold. Informasjonen som presenteres bør således også restruktureres.
 
- Vi har igjennom våre analyser kommet frem til følgende punkter vi mener kan være med på å både forenkle budskapet NAV ønsker og formidle, i tillegg til en styrket brukeropplevelse.
+Vi har igjennom våre analyser kommet frem til følgende punkter vi mener kan være med på å både forenkle budskapet NAV ønsker og formidle, i tillegg til en styrket brukeropplevelse.
 
 \begin{itemize}
 \item Et nytt moderne responsivt rammeverk vil forbedre informasjonsflyten og fokus på viktig innhold.

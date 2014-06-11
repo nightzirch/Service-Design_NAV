@@ -1,31 +1,30 @@
 \select@language {norsk}
 \contentsline {chapter}{Innhold}{iii}{section*.2}
 \contentsline {chapter}{\numberline {1}Introduksjon}{1}{section*.3}
-\contentsline {chapter}{\numberline {2}Dagens l\IeC {\o }sning hos NAV}{3}{section*.4}
-\contentsline {section}{\numberline {2.1}Refleksjon rundt NAV}{3}{section.2.1}
-\contentsline {section}{\numberline {2.2}Analyse av stakeholders}{3}{section.2.2}
-\contentsline {section}{\numberline {2.3}Personas}{4}{section.2.3}
+\contentsline {chapter}{\numberline {2}Analyse av eksisterende service design}{3}{section*.4}
+\contentsline {section}{\numberline {2.1}Analyse av stakeholders}{3}{section.2.1}
+\contentsline {section}{\numberline {2.2}Personas}{3}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Thomas Larsen}{3}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Gudrun Bekkehavn}{4}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}P\IeC {\r a}l Wolfgang}{4}{subsection.2.2.3}
+\contentsline {section}{\numberline {2.3}Scenarioer}{4}{section.2.3}
 \contentsline {subsection}{\numberline {2.3.1}Thomas Larsen}{4}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Gudrun Bekkehavn}{4}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.2}Gudrun Bekkehavn}{5}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {2.3.3}P\IeC {\r a}l Wolfgang}{5}{subsection.2.3.3}
-\contentsline {section}{\numberline {2.4}Scenarioer}{5}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Thomas Larsen}{5}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Gudrun Bekkehavn}{6}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}P\IeC {\r a}l Wolfgang}{6}{subsection.2.4.3}
-\contentsline {section}{\numberline {2.5}Intervju}{6}{section.2.5}
-\contentsline {subsubsection}{Beskrivelse av innhold - Forside pensjon}{7}{section*.5}
-\contentsline {section}{\numberline {2.6}Kundereise}{7}{section.2.6}
-\contentsline {subsubsection}{F\IeC {\o }r kontakt}{7}{section*.6}
-\contentsline {subsubsection}{F\IeC {\o }rste kontakt}{9}{section*.7}
-\contentsline {subsubsection}{Hjelp}{9}{section*.8}
-\contentsline {subsubsection}{S\IeC {\o }k om alderspensjon}{9}{section*.9}
-\contentsline {subsubsection}{F\IeC {\r a}r utbetalt alderspensjon}{9}{section*.10}
-\contentsline {section}{\numberline {2.7}Metoder}{9}{section.2.7}
-\contentsline {subsection}{\numberline {2.7.1}Generelt om metodene}{9}{subsection.2.7.1}
-\contentsline {subsection}{\numberline {2.7.2}Personas}{10}{subsection.2.7.2}
-\contentsline {subsection}{\numberline {2.7.3}Stakeholder-analyse}{10}{subsection.2.7.3}
-\contentsline {subsection}{\numberline {2.7.4}Intervju}{10}{subsection.2.7.4}
-\contentsline {subsection}{\numberline {2.7.5}Kundereise}{10}{subsection.2.7.5}
+\contentsline {section}{\numberline {2.4}Intervju}{6}{section.2.4}
+\contentsline {subsubsection}{Beskrivelse av innhold - Forside pensjon}{6}{section*.5}
+\contentsline {section}{\numberline {2.5}Kundereise}{8}{section.2.5}
+\contentsline {subsubsection}{F\IeC {\o }r kontakt}{8}{section*.6}
+\contentsline {subsubsection}{F\IeC {\o }rste kontakt}{8}{section*.7}
+\contentsline {subsubsection}{Hjelp}{8}{section*.8}
+\contentsline {subsubsection}{S\IeC {\o }k om alderspensjon}{8}{section*.9}
+\contentsline {subsubsection}{F\IeC {\r a}r utbetalt alderspensjon}{8}{section*.10}
+\contentsline {section}{\numberline {2.6}Metoder}{9}{section.2.6}
+\contentsline {subsection}{\numberline {2.6.1}Generelt om metodene}{9}{subsection.2.6.1}
+\contentsline {subsection}{\numberline {2.6.2}Personas}{9}{subsection.2.6.2}
+\contentsline {subsection}{\numberline {2.6.3}Stakeholder-analyse}{9}{subsection.2.6.3}
+\contentsline {subsection}{\numberline {2.6.4}Intervju}{9}{subsection.2.6.4}
+\contentsline {subsection}{\numberline {2.6.5}Kundereise}{9}{subsection.2.6.5}
 \contentsline {chapter}{\numberline {3}Refleksjon}{11}{section*.11}
 \contentsline {chapter}{\numberline {4}Analyse av IT-systemer}{13}{section*.12}
 \contentsline {section}{\numberline {4.1}Grunnleggende analyse}{13}{section.4.1}
